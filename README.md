@@ -1,1 +1,0 @@
-Bu proje The Odin Project'in ilk projesidir. Basit bir tarif sitesi yapılacaktır.
